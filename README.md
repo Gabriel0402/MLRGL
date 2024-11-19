@@ -7,7 +7,7 @@ Unsupervised Domain Adaptation (UDA) is a machine learning technique that facili
 
 # How to use the code
 You need to change the directory to your data.
-You can download extracted features used in our experiments from [BaiduPan](https://pan.baidu.com/s/1Glb4KN142kXbz7-BfLggGQ) code: gqtv\
+You can download extracted features used in our experiments from [BaiduPan](https://pan.baidu.com/s/1g3DmZcFMAKzHS9ihAZpysQ) code: r7ht\
 zcy@cczu.edu.cn
 # Reference
 
